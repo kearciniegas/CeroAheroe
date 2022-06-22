@@ -2,6 +2,9 @@
 
 Con este paradigma se detalla de manera mas general lo que se requiere hacer, es decir que se hace de manera directa lo que se requiere en vez de hacerlo paso a paso.
 
+- Para que usar el Paradigma Declarativo:
+Este paradigma es utilizado para responder a las preguntas o cuestiones consultadas.
+
 - Ventajas:
 	- Código más corto y eficiente.
 	- Realizable con métodos no conocidos en el momento de la programación.
