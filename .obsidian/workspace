@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "a78f7a4af4cae430",
+    "type": "split",
+    "children": [
+      {
+        "id": "d95a8f75753f2a2c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Desarrollo/Desarrollo WEB/Paradigmas de programación.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "500b957853e3e684",
+    "type": "split",
+    "children": [
+      {
+        "id": "50a91a8569034557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc4619cec4a0f8ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b71afd02528ca8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7cb2d137b791d46e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4105f1c5a2b348f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae1c3cc6263d5832",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Desarrollo/Desarrollo WEB/Paradigmas de programación.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d95a8f75753f2a2c",
+  "lastOpenFiles": [
+    "Desarrollo/Desarrollo WEB/Paradigmas de programación.md",
+    "Desarrollo/Desarrollo WEB/Paradigma Imperativo/Tipos de programación Imperativa/Programación Estructurada.md",
+    "Desarrollo/Desarrollo WEB/Paradigma Imperativo/Tipos de programación Imperativa/Programación Procedimental.md",
+    "Desarrollo/Desarrollo WEB/Paradigma Imperativo/Tipos de programación Imperativa/Programación Orientado a Objetos.md",
+    "Desarrollo/Desarrollo WEB/Paradigma Imperativo/Paradigma Imperativo.md",
+    "Desarrollo/Desarrollo WEB/Paradigma Declarativo/Tipos de programación Declarativa/Programación Funcional.md",
+    "Desarrollo/Desarrollo WEB/Paradigma Declarativo/Tipos de programación Declarativa/Programación Lógica.md",
+    "Desarrollo/Desarrollo WEB/Paradigma Declarativo/Paradigma Declarativo.md"
+  ]
+}
