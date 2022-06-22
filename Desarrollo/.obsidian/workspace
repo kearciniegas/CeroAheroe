@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "7cfc3170c591a0f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f99e40fad64f16ba",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "167eb63456e8d556",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d75855077e12462",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b260fe19c80448e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "af5519e2341082d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293
+  },
+  "right": {
+    "id": "663b195f6c09d2c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc25144532e26e47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea489c412092bbb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "f99e40fad64f16ba",
+  "lastOpenFiles": [
+    "Desarrollo WEB/Paradigmas de programación.md",
+    "Desarrollo WEB/Paradigma Imperativo/Tipos de programación Imperativa/Programación Procedimental.md",
+    "Desarrollo WEB/Paradigma Imperativo/Tipos de programación Imperativa/Programación Orientado a Objetos.md",
+    "Desarrollo WEB/Paradigma Imperativo/Tipos de programación Imperativa/Programación Estructurada.md",
+    "Desarrollo WEB/Paradigma Imperativo/Paradigma Imperativo.md",
+    "Desarrollo WEB/Paradigma Declarativo/Paradigma Declarativo.md",
+    "Desarrollo WEB/Paradigma Declarativo/Tipos de programación Declarativa/Programación Lógica.md",
+    "Desarrollo WEB/Paradigma Declarativo/Tipos de programación Declarativa/Programación Funcional.md",
+    "Paradigmas de Programación/Que es un Paradigmas de Progración.md",
+    "Paradigmas de Programación/Patrones de Diseño.md"
+  ]
+}
