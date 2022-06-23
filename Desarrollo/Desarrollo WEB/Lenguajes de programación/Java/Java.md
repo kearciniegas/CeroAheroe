@@ -61,12 +61,12 @@ Java se beneficia todo lo posible de la tecnología orientada a objetos. Java no
 ## Componentes en Java
 Además de la amplia terminología individual que existe en Java, existen diversos componentes ("KITS") que agrupan estas funcionalidades, y son estos componentes con los que se trabaja "día a día" en proyectos Java.
 
-- [[Integrated Development Environment (IDE's)]]
-- [[Java 2 Enterprise Edition (J2EE)]]
-- [[Java 2 Standard Edition (J2SE)]]
-- [[Java Development Kit (JDK)]]
-- [[Java Development Kit (JDK)]]
-- [[Java Enterprice Edition (Java EE)]]
-- [[Java Runtime Enviroment (JRE)]]
-- [[Java Standard Edition (Java SE)]]
-- [[Software Development Kit (SDK)]]
+![[Integrated Development Environment (IDE's)]]
+![[Java 2 Enterprise Edition (J2EE)]]
+![[Java 2 Standard Edition (J2SE)]]
+![[Java Development Kit (JDK)]]
+![[Java Development Kit (JDK)]]
+![[Java Enterprice Edition (Java EE)]]
+![[Java Runtime Enviroment (JRE)]]
+![[Java Standard Edition (Java SE)]]
+![[Software Development Kit (SDK)]]
