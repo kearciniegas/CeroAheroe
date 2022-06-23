@@ -1,0 +1,2 @@
+# Java Enterprice Edition (Java EE)
+Java EE significa Java Enterprise Edition, que anteriormente se conocía como J2EE y actualmente se conoce como Jakarta EE. Es un conjunto de especificaciones que envuelven Java SE (Standard Edition) . Java EE proporciona una plataforma para desarrolladores con características empresariales como computación distribuida y servicios web.

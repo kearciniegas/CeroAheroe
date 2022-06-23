@@ -1,0 +1,2 @@
+# Java Standard Edition (Java SE)
+Java Platform, Standard Edition (Java SE) es una especificación que describe una plataforma Javade resumen. Proporciona una base para crear y desplegar aplicaciones de negocio centradas en la red que van desde un ordenador de escritorio PC a un servidor de grupo de trabajo.

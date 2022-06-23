@@ -20,3 +20,4 @@ Un ejemplo sencillo es realizar el llamado de un dato a una tabla dentro de una 
 	+ [[Paradigma Imperativo]]
 	+ [[Paradigma Declarativo]]
 
+![[Paradigmas de programación.png]]
