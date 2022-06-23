@@ -3,4 +3,5 @@ Este tipo de programación específica lo que se quiere hacer, en lugar de lidia
 - Para que usar el paradigma Funcional:
 Este paradigma se debe usar para
 
- 
+- Lenguaje que se pueden utilizar:
+	- [[SQL]].

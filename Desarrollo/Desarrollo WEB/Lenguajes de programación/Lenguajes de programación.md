@@ -27,3 +27,5 @@ Se distinguen los lenguajes de programación de propósito general de aquellos d
 - Python
 - PHP
 - Angular
+- [[SQL]]
+- Prolog
