@@ -1,6 +1,6 @@
 # Programación Orientado a Objetos
 Es la manera en como se abstraen los objetos de la vida real a un codigo junto con sus  atributos y metodos/funciones.
-La programación Orientada a Objetos permite la implementacion de los diferentes [[Patrones de Diseño]] los  cuales facilitan el uso y trabajo en equipo de la programación orientada a objetos.
+La programación Orientada a Objetos permite la implementacion de los diferentes [[Patrones de Diseño GOF]] los  cuales facilitan el uso y trabajo en equipo de la programación orientada a objetos.
 
 - **Conceptos Basicos de la programación Orienda a Objetos**
 

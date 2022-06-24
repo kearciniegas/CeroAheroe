@@ -1,5 +1,6 @@
-# Que son los Patrones de Diseño:
-Es la forma de dar una solucion general, reutilizable y aplicable a diferentes problemas de diseño de software.
+# Que son los Patrones de Diseño GOF:
+Es la forma de dar una solucion general, reutilizable y aplicable a diferentes problemas de diseño de software, Dentro de los patrones clásicos tenemos los GOF (Gang of Four), Estudiaddos por  Erich Gamma. Richard Helm, Ralph Johnson y John Vlissides en su mítico libro Design Patterns se contemplan 3 tipos de patrones.
+
 
 - Para que son los patrones de diseño:
 
