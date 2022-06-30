@@ -1,6 +1,6 @@
 ## Paradigma Imperativo
 
-Con este paradigma se detalla de manera mas precisas lo que se requiere hacer es decir se realizan el paso a paso de lo que se requiere realizar.
+Con este paradigma se detalla de manera mas precisa lo que se requiere hacer es decir se realizan el paso a paso de lo que se requiere realizar.
 
 - Ventajas:
 	+ Se puede leer y comprender de manera mas facil.
@@ -14,7 +14,7 @@ Con este paradigma se detalla de manera mas precisas lo que se requiere hacer es
 	- Cuando se quiere optimizar o ampliar se vuelve muy dificil.
 
 
-- Cuales los tipos de programacion que aplican el paradigma de programacion Declarativo:
+- Cuales son los tipos de programacion que aplican el paradigma imperativo:
 
 	- [[Programación Orientado a Objetos]]
 	- [[Programación Estructurada]]

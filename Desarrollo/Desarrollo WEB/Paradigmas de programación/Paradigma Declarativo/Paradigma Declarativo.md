@@ -17,7 +17,7 @@ Con este paradigma se detalla de manera mas general lo que se requiere hacer, es
 	- Basado en una forma de pensar no habitual en las personas (estado de solución).
 	- Las características de casos de aplicación individuales se pueden considerar en la programación, pero únicamente de forma compleja.
 
-- Cuales los tipos de programacion que aplican el paradigma de programacion Declarativo:
+- Cuales son los tipos de programacion que aplican el paradigma Declarativo:
 
 	- [[Programación Funcional]]
 	- [[Programación Lógica]]

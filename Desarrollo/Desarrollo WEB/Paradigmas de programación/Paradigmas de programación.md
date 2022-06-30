@@ -8,9 +8,9 @@ Los paradigmas son usados para poder definir una manera clara de desarrollo para
 
 - Como se usan:
 
-Los paradigmas se aplican dependiendo del tipo y del lenguaje a utilizar es decir teniendo en cuanta las caracteristicas y requisitos del proyectos al igual que sus ventajas y deventajas.
+Los paradigmas se aplican dependiendo del tipo y del lenguaje a utilizar es decir teniendo en cuanta las caracteristicas y requisitos del proyecto al igual que sus ventajas y deventajas.
 
-- Ejemplo de como se aplican los Paadigmas:
+- Ejemplo de como se aplican los Paradigmas:
 
 Un ejemplo sencillo es realizar el llamado de un dato a una tabla dentro de una base de datos, por el lado del imperativo nos dice que hay que hacerlo de manera precisa con cada dato para poder llamarlo; caso contrario con el declarativo que al realizar el llamado nos trae todos los datos que coincidan con el llamado que se realizo.
 
